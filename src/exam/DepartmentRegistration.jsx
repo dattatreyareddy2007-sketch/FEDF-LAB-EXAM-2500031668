@@ -41,7 +41,7 @@ export default function DepartmentRegistration() {
           <option value="">Gender</option>
           <option value="Male">Male</option>
           <option value="Female">Female</option>
-          <option value="Others">Others</option>
+          <option value="Others">Other</option>
         </select>
         <pre></pre>
         <button type="submit">Submit</button>
